@@ -10,9 +10,6 @@ SkratchPad is a lightweight, dark-themed text editor built with Python, featurin
 - Non-resizable window (800x600)
 - Customizable via `customtkinter` UI framework
 
-## Screenshots
-*(You can add screenshots here by uploading images to your GitHub repository and linking them, e.g., `![Screenshot](screenshots/example.png)`)*
-
 ## Installation
 
 1. **Clone the repository**:
